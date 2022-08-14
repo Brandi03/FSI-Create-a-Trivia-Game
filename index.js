@@ -1,1 +1,1 @@
-let userName = window.prompt ('Brandi:')
+let userName = window.prompt ('Please enter your name:')
